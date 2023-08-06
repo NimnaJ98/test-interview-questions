@@ -1,0 +1,11 @@
+1. package names cannot have '-'
+2. class names cannot have spaces
+3. main methods should be public
+4. main method arguments shouldn't specify size
+
+
+------------------------------------------------------
+ *implement the bubble sort algorithm
+ *reverse a Linked List
+ *implement Binary Search
+ *sum all the elements in an array
